@@ -1,0 +1,11 @@
+{
+    "images": [".jpg", ".png", ".jpeg", ".gif"],
+    "videos": [".mp4", ".mkv"],
+    "musics": [".mp3", ".wav"],
+    "archives": [".zip", ".tgz", ".rar", ".tar"],
+    "documents": [".pdf", ".docx", ".csv", ".xlsx", ".pptx", ".doc", ".ppt", ".xls"],
+    "setup": [".msi", ".exe"],
+    "programs": [".py", ".c", ".cpp", ".php", ".C", ".CPP"],
+    "design": [".xd", ".psd"],
+    "others": []
+}
