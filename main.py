@@ -12,7 +12,7 @@ logging.basicConfig(
 )
 
 # Пути
-DOWNLOADS_DIR = r"E:\downloads"
+DOWNLOADS_DIR = r"D:\downloads"
 TARGET_DIR = os.path.join(DOWNLOADS_DIR, "..", "download-sorting")
 CONFIG_FILE = "extensions.json"
 
@@ -43,7 +43,7 @@ def get_category(file_name):
     for category, exts in EXTENSIONS.items():
         if any(file_name.lower().endswith(ext) for ext in exts):
             return category
-    return "others"
+    return "Другое"
 
 
 # Проверяем, существует ли папка назначения
