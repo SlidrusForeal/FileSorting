@@ -1,11 +1,11 @@
 {
-    "images": [".jpg", ".png", ".jpeg", ".gif"],
-    "videos": [".mp4", ".mkv"],
-    "musics": [".mp3", ".wav"],
-    "archives": [".zip", ".tgz", ".rar", ".tar"],
-    "documents": [".pdf", ".docx", ".csv", ".xlsx", ".pptx", ".doc", ".ppt", ".xls"],
-    "setup": [".msi", ".exe"],
-    "programs": [".py", ".c", ".cpp", ".php", ".C", ".CPP"],
-    "design": [".xd", ".psd"],
-    "others": []
+    "Картинки": [".jpg", ".png", ".jpeg", ".gif"],
+    "Видео": [".mp4", ".mkv"],
+    "Музыка": [".mp3", ".wav"],
+    "Архивы": [".zip", ".tgz", ".rar", ".tar"],
+    "Документы": [".pdf", ".docx", ".csv", ".xlsx", ".pptx", ".doc", ".ppt", ".xls"],
+    "Установка": [".msi", ".exe"],
+    "Программы": [".py", ".c", ".cpp", ".php", ".C", ".CPP"],
+    "Дизайн": [".xd", ".psd"],
+    "Другое": []
 }
